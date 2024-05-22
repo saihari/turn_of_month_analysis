@@ -1,0 +1,142 @@
+{
+    "LTI": {
+        "Name": "LTIM.NS",
+        "Status": "Ok"
+    },
+    "MINDTREE": {
+        "Name": "MINDTREE.NS",
+        "Status": "Delisted"
+    },
+    "ADANITRANS": {
+        "Name": "ADANIENSOL.NS",
+        "Status": "Ok"
+    },
+    "CADILAHC": {
+        "Name": "ZYDUSLIFE.NS",
+        "Status": "Ok"
+    },
+    "MOTHERSUMI": {
+        "Name": "MOTHERSON.NS",
+        "Status": "Ok"
+    },
+    "TATAGLOBAL": {
+        "Name": "TATACONSUM.NS",
+        "Status": "Ok"
+    },
+    "GSKCONS": {
+        "Name": "GSKCONS.NS",
+        "Status": "Delisted"
+    },
+    "SRTRANSFIN": {
+        "Name": "SHRIRAMFIN.NS",
+        "Status": "Ok"
+    },
+    "UNIPHOS": {
+        "Name": "UNIENTER.NS",
+        "Status": "Ok"
+    },
+    "CROMPGREAV": {
+        "Name": "CROMPGREAV.NS",
+        "Status": "Delisted"
+    },
+    "VIJAYABANK": {
+        "Name": "VIJAYABANK.NS",
+        "Status": "Delisted"
+    },
+    "SYNDIBANK": {
+        "Name": "SYNDIBANK.NS",
+        "Status": "Delisted"
+    },
+    "RNRL": {
+        "Name": "RNRL.NS",
+        "Status": "Delisted"
+    },
+    "PATNI": {
+        "Name": "PATNI.NS",
+        "Status": "Delisted"
+    },
+    "NIRMA": {
+        "Name": "NIRMA.NS",
+        "Status": "Delisted"
+    },
+    "MUNDRAPORT": {
+        "Name": "ADANIPORTS.NS",
+        "Status": "Ok"
+    },
+    "INGVYSYABK": {
+        "Name": "INGVYSYABK.NS",
+        "Status": "Delisted"
+    },
+    "CORPBANK": {
+        "Name": "CORPBANK.NS",
+        "Status": "Delisted"
+    },
+    "AVENTIS": {
+        "Name": "SANOFI.NS",
+        "Status": "Ok"
+    },
+    "ANDHRABANK": {
+        "Name": "ANDHRABANK.NS",
+        "Status": "Delisted"
+    },
+    "ABIRLANUVO": {
+        "Name": "ABIRLANUVO.NS",
+        "Status": "Delisted"
+    },
+    "CAIRN": {
+        "Name": "CAIRN.NS",
+        "Status": "Delisted"
+    },
+    "HDFC": {
+        "Name": "HDFC.NS",
+        "Status": "Delisted"
+    },
+    "HEROHONDA": {
+        "Name": "HEROMOTOCO.NS",
+        "Status": "Ok"
+    },
+    "INFOSYSTCH": {
+        "Name": "INFY.NS",
+        "Status": "Ok"
+    },
+    "RANBAXY": {
+        "Name": "RANBAXY.NS",
+        "Status": "Delisted"
+    },
+    "REL": {
+        "Name": "REL.NS",
+        "Status": "Delisted"
+    },
+    "RPL": {
+        "Name": "RPL.NS",
+        "Status": "Delisted"
+    },
+    "SATYAMCOMP": {
+        "Name": "TECHM.NS",
+        "Status": "Ok"
+    },
+    "BAJAJAUTO": {
+        "Name": "BAJAJ-AUTO.NS",
+        "Status": "Ok"
+    },
+    "VSNL": {
+        "Name": "TATACOMM.NS",
+        "Status": "Ok"
+    },
+    "STER": {
+        "Name": "STER.NS",
+        "Status": "Delisted"
+    },
+    "SESAGOA": {
+        "Name": "VEDL.NS",
+        "Status": "Ok"
+    },
+    "SSLT": {
+        "Name": "VEDL.NS",
+        "Status": "Ok"
+    },
+    "INFRATEL": {
+        "Name": "INDUSTOWER.NS",
+        "Status": "Ok"
+    }
+}
